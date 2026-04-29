@@ -12,7 +12,7 @@ Solve 5-6 problems per day and strengthen DSA fundamentals.
 Python
 
 ## Goals
-\(\bullet \) Solve 500+ LeetCode problems
-\(\bullet \) Master core DSA concepts
-\(\bullet \) Improve coding speed and efficiency
-\(\bullet \) Prepare for technical interviews
+Solve 500+ LeetCode problems
+Master core DSA concepts
+Improve coding speed and efficiency
+Prepare for technical interviews
