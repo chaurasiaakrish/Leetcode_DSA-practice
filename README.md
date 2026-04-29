@@ -26,3 +26,6 @@ Solve 500+ LeetCode problems
 Master core DSA concepts
 Improve coding speed and efficiency
 Prepare for technical interviews
+
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/akrishchaurasia)
