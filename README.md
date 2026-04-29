@@ -2,16 +2,16 @@
 This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.
 I use this repository to track my daily progress and improve problem-solving skills.
 
-## My LeetCode Profile
+## 🔥 My LeetCode Profile
 https://leetcode.com/u/akrishchaurasia
 
-## Goal 
+## 🎯 Goal 
 Solve 5-6 problems per day and strengthen DSA fundamentals.
 
-## Language Used
+## 🐍 Language Used
 Python
 
-## Progress Log
+## 📅 Progress Log
 
 | Date       | Problem           | Difficulty | Topic         |
 | ---------- | ----------------- | ---------- | ------------- |
