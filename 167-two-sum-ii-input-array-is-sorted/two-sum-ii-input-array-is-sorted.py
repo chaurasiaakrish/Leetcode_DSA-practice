@@ -9,3 +9,4 @@ class Solution:
                 j=j-1    
             elif numbers[i]+numbers[j]<target:
                 i=i+1    
+        return None        
