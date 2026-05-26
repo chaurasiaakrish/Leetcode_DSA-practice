@@ -15,15 +15,6 @@ Solve 5-6 problems per day and strengthen DSA fundamentals.
 
 Python
 
-## 📅 Progress Log
-
-| Date       | Problem           | Difficulty | Topic         |
-| ---------- | ----------------- | ---------- | ------------- |
-| 2026-05-25 | Two Sum-II        | Medium     | Array         |
-| 2026-01-01 | Valid Parentheses | Easy       | Stack         |
-| 2026-01-02 | Binary Search     | Easy       | Binary Search |
-| 2026-01-02 | Binary Search     | Easy       | Binary Search |
-
 
 ## 🎯 Goals
 
