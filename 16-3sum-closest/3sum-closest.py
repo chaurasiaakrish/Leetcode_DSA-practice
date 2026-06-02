@@ -3,7 +3,6 @@ class Solution:
         mini=float("-inf")
         maxi=float("inf")
         diff=0
-        summ=0
         total=0
         nums.sort()
         i=0
