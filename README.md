@@ -7,14 +7,9 @@ I use this repository to track my daily progress and improve problem-solving ski
 
 https://leetcode.com/u/akrishchaurasia
 
-## 🎯 Goal 
-
-Solve 5-6 problems per day and strengthen DSA fundamentals.
-
 ## 🐍 Language Used
 
 Python
-
 
 ## 🎯 Goals
 
