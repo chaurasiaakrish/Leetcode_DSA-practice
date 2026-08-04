@@ -8,7 +8,7 @@ class Solution:
         for j in range(i, len(s)):
             freq[s[j]] = freq.get(s[j], 0) + 1
             maxi = max(freq.values())
-            diff = sum(freq.values()) - maxi
+            diff = (j - i + 1) - maxi
             if diff <= k:
                 res = max((j - i + 1), res)
             else:
