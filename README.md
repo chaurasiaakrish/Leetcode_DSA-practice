@@ -1,6 +1,6 @@
-## LeetCode DSA Practice
+## LeetCode DSA & SQl Practice
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.
+This repository contains my solutions to Data Structures and Algorithms along with SQL problems from LeetCode.
 I use this repository to track my daily progress and improve problem-solving skills.
 
 ## 🔥 My LeetCode Profile
@@ -10,13 +10,15 @@ https://leetcode.com/u/akrishchaurasia
 ## 🐍 Language Used
 
 Python
+MS SQL SERVER DATABASE
 
 ## 🎯 Goals
 
 1. Solve **500+ LeetCode problems**
 2. Master core **DSA concepts**
-3. Improve coding speed and efficiency
-4. Prepare for technical interviews
+3. Practice core **SQL concepts**
+4. Improve coding speed and efficiency
+5. Prepare for technical interviews
 
 ## 📈 LeetCode Stats
 
