@@ -10,5 +10,6 @@ class Solution:
             if slow.val==slow.next.val:
                 slow.next=slow.next.next
             else:
-                slow=slow.next    
-        return head    
+                slow=slow.next
+        return head            
+
