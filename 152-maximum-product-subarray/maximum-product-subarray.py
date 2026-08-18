@@ -5,9 +5,9 @@ class Solution:
         min_prod=nums[0]
         res=nums[0]
         for i in range(1,len(nums)):
-            prod=nums[i]                # to only consoder that number
-            max_prod=max_prod*nums[i]   # for tracking max_prod
-            min_prod=min_prod*nums[i]   # for tracking min_prod
+            prod=nums[i]                
+            max_prod=max_prod*nums[i]   
+            min_prod=min_prod*nums[i]   
             maxx=max(prod,max(max_prod,min_prod))
             minn=min(prod,min(max_prod,min_prod))
             max_prod=maxx
