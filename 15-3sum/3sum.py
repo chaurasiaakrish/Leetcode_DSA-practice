@@ -24,6 +24,4 @@ class Solution:
                     k-=1   
                 else:
                     j+=1
-        return l                      
-
-        
+        return l
